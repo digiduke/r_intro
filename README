@@ -1,0 +1,31 @@
+presented in lightning talk, live demo form as part of a Rubyist's intro to R
+at http://mtnwestrubyconf.org/2011/
+by Alan Whitaker [@digiduke]
+
+code in eq.r
+
+grab R here
+  http://cran.r-project.org
+
+but also here
+  http://www.rstudio.org/
+    newly announced IDE, with remote server support and other cool stuff
+
+a few links
+  R Reference card (very handy) http://cran.r-project.org/doc/contrib/Short-refcard.pdf
+  an official intro http://cran.r-project.org/doc/manuals/R-intro.pdf
+  UCLA R Starter Kit http://www.ats.ucla.edu/stat/r/sk/
+  search http://www.rseek.org (googling "R <insert concept here>" is not always so helpful)
+
+books for using / learning R
+  Introductory Statistics with R, Peter Dalgaard http://amzn.to/gIPimD
+    the classic book for learning R while brushing up stats
+  R Cookbook, Paul Teetor http://amzn.to/h3UNYf
+    brand new, but I like the structure and am finding some good refreshers and new things in here so far
+  R in Action, Robert I. Kabacoff (Manning Early Access Program)
+
+some "specialty" R books
+  Data Manipulation with R, Phil Spector http://amzn.to/hxp8HC
+    covers
+  Software for Data Analysis: Programming with R, John Chambers http://amzn.to/ev6oz1
+    heavier tome, goes deeper on internals / data structures / coding packages
